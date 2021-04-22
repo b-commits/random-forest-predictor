@@ -1,5 +1,5 @@
 # random-forest-predictor
-A Python script that tries predicts whether or not a person is depressed using RandomForest algorithm. It's intended to work with b_depressed.csv dataset I found on kaggle, but it should work with pretty much any other set as well. Outputs a handful of .pngs visualising each and every decision tree in whatever directory the script's being called. Obviously uses sklearn.
+A Python script that tries to predict whether or not a person is depressed using RandomForest algorithm. It's intended to work with b_depressed.csv dataset I found on kaggle, but it should work with pretty much any other set as well. Outputs a handful of .pngs visualising each and every decision tree in whatever directory the script's being called. Obviously uses sklearn.
 
 **Use the following command line parameters:** 
 
