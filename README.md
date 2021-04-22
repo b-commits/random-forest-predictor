@@ -14,7 +14,7 @@ required
 determines how many rows will be used for tests. Between 0.2 and 0.8. 0.2 by default
 
 '-c',
-name of a column in a dataset that contains labels / classes
+name of the column in a dataset that contains labels / classes
 required
 
 '--max_depth',
