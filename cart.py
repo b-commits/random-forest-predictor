@@ -106,8 +106,8 @@ def build_forest(train_x, train_y, d_frame, test_x, test_y,
                  acceptable_impurity=0.0,
                  classification_column='depressed'):
     """
-    :param test_y:
-    :param test_x:
+    :param test_y: dataset labels (classes)
+    :param test_x: dataset features
     :param d_frame: dataframe of the original set
     :param classification_column: label of classification column, default is 'depressed'
     :param acceptable_impurity: determines at which point data is now longer split
